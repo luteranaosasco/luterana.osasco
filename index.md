@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## COMUNIDADE LUTERANA CRISTO PARA TODOS
 
 You can use the [editor on GitHub](https://github.com/luteranaosasco/luterana.osasco/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
